@@ -56,8 +56,8 @@ export const monsters = [
   },
   {
     id: 12,
-    name: "Arif",
-    email: 'arif@gmail.com',
+    name: "Arafat",
+    email: 'arafat@gmail.com',
   },
   {
     id: 13,
@@ -136,7 +136,7 @@ export const monsters = [
   },
   {
     id: 28,
-    name: 'Ariful',
+    name: 'Ariful Dost',
     email: 'ariful@gmail.com',
   },
 ];
